@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           we will display this app to fireabse 
+          <hr />
+          this is added after github workflows setup is added 
         </p>
         <a
           className="App-link"
